@@ -41,4 +41,4 @@
 
 ---
 
-_Always learning. Always building. Let's connect!_
+Building
