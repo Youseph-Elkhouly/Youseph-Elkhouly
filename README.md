@@ -34,6 +34,12 @@
 
 ---
 
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YouskCode?theme=unicorn)
+
+
+---
 ## 📫 Contact
 
 - 📧 Email: work.youseph@gmail.com  
