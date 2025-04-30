@@ -32,12 +32,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=python&logoColor=white)
 
----
-
-## 🧠 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/YouskCode?theme=unicorn)
-
 
 ---
 ## 📫 Contact
