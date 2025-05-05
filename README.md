@@ -27,14 +27,9 @@ I'm a Computer Science student at the University of Guelph with a passion for fu
 
 ---
 
-### 📁 Frequently Used Projects
+### 📊 Frequently Used Languages
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [SyncWatch](https://github.com/Youseph-Elkhouly/SyncWatch) | Chrome extension for synchronized movie streaming | Python, Flask, React, AWS |
-| [Merchant](https://github.com/Youseph-Elkhouly/Merchant) | Marketplace aggregator with web scraping | React, Flask, PostgreSQL |
-| [Typing Speed Test](https://github.com/Youseph-Elkhouly/typing-speed-test) | App to test and improve typing speed | TypeScript, React |
-| [Real-Time Chat App](https://github.com/Youseph-Elkhouly/chat-app) | A fast and responsive messaging platform | Node.js, Socket.io, MongoDB |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseph-Elkhouly&layout=compact&theme=default&hide_border=true)
 
 ---
 
