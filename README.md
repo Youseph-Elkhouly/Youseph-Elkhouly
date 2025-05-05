@@ -2,11 +2,16 @@
 
 CS Student @ University of Guelph. 
 
-Intrests: 
-- Backend Development  
-- Cloud Computing & DevOps  
-- Automation & API Integration  
-- Machine & Deep Learning  
+Interests: 
+
+- Backend Development
+  
+- Cloud Computing & DevOps
+   
+- Automation & API Integration
+   
+- Machine & Deep Learning
+  
 - System Design & Architecture  
 
 
