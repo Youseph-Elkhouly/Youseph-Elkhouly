@@ -11,4 +11,11 @@ I love:
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/youseph-el-khouly-49a285219/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/youseph-el-khouly-49a285219/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://yousephspw.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=333333" alt="Website" />
+  </a>
+</p>
