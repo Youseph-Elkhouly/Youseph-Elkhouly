@@ -2,7 +2,13 @@
 
 CS Student @ University of Guelph. 
 
-![Interests](https://img.shields.io/badge/🎯%20Interests-Focus-yellow?style=for-the-badge&logo=target&logoColor=black)
+### ![Interests](https://img.shields.io/badge/Interests-Backend%20%7C%20AI%20%7C%20Cloud-0A0A0A?style=for-the-badge&logo=opsgenie&logoColor=white)
+
+- Backend Development  
+- Cloud Computing & DevOps  
+- Automation & API Integration  
+- Machine & Deep Learning  
+- System Design & Architecture  
 
 
 ---
