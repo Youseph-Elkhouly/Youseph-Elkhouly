@@ -1,6 +1,19 @@
 # 👋 Hey, I’m Youseph
 
 CS Student @ University of Guelph. 
+
+![Interests](https://img.shields.io/badge/Interests-Backend%20%7C%20AI%20%7C%20Cloud-0A0A0A?style=for-the-badge&logo=abstract&logoColor=white)
+
+Backend Development
+
+Cloud Computing & DevOps  
+
+Automation & API Integration  
+
+Machine & Deep Learning
+
+System Design & Architecture  
+
 ---
 
 ### 💻 Languages & Databases
