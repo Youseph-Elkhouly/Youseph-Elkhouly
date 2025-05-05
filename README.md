@@ -1,17 +1,22 @@
-# 👨‍💻 Youseph El Khouly
+# Hey, I'm Youseph 👋
 
-Hi! I'm Youseph — a passionate Computer Science student at the University of Guelph, Software Engineer Intern, and full-stack developer who thrives on building meaningful projects.
+> *“Write clean code. Lift heavy. Think big.”*
 
-Outside of coding, I’m committed to fitness and go to the gym 6 times a week. I love working on new ideas, exploring unique tech projects, and continuously learning. You’ll often find me playing sports, going for runs, or brainstorming my next startup idea. Whether it’s pushing limits in the gym or on GitHub, I bring consistency, energy, and curiosity to everything I do.
+I'm a Computer Science student @ University of Guelph, passionate about full-stack development, creative tech, and building ideas that make people say *“Woah, that’s smart.”*
+
+- 🧠 I love working on side projects — anything from AI hacks to startup prototypes.
+- 🏋️ I train at the gym 6 days a week — discipline off the keyboard matters.
+- 🏃‍♂️ I go for runs, play sports, and breathe competition.
+- 💡 I’m always building something. If I’m not, I’m thinking about what to build next.
 
 ---
 
-## 🔧 Most Used Languages
+### 🧪 My Coding DNA
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseph-Elkhouly&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Youseph-Elkhouly&layout=compact&hide_border=true&theme=radical)
 
 ---
 
-## 🤝 Connect with Me
+### 🔗 Connect with Me
 
-[![Connect](https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youseph-el-khouly-49a285219/)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youseph-el-khouly-49a285219/)
