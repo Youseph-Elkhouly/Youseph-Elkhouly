@@ -1,10 +1,8 @@
 # 👨‍💻 Youseph El Khouly
 
-**Computer Science Student @ University of Guelph | Software Engineer Intern | Full Stack Developer**
+Hi! I'm Youseph — a passionate Computer Science student at the University of Guelph, Software Engineer Intern, and full-stack developer who thrives on building meaningful projects.
 
-[![Portfolio](https://img.shields.io/badge/Website-Youseph's%20Portfolio-6b4c3b?style=flat-square&logo=vercel&logoColor=white)](https://yousephspw.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youseph%20El%20Khouly-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youseph-el-khouly-49a285219/)
-[![GitHub](https://img.shields.io/badge/GitHub-Youseph--Elkhouly-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Youseph-Elkhouly)
+Outside of coding, I’m committed to fitness and go to the gym 6 times a week. I love working on new ideas, exploring unique tech projects, and continuously learning. You’ll often find me playing sports, going for runs, or brainstorming my next startup idea. Whether it’s pushing limits in the gym or on GitHub, I bring consistency, energy, and curiosity to everything I do.
 
 ---
 
@@ -14,6 +12,6 @@
 
 ---
 
-## 📫 Contact
+## 🤝 Connect with Me
 
-- 📧 Email: work.youseph@gmail.com  
+[![Connect](https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youseph-el-khouly-49a285219/)
