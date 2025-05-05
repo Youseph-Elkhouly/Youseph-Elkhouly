@@ -1,7 +1,6 @@
 # 👋 Hey, I’m Youseph
 
-I'm a Computer Science student at the University of Guelph with a passion for full-stack development and building real-world solutions through clean, scalable code.
-
+CS Student @ University of Guelph. 
 ---
 
 ### 💻 Languages & Databases
