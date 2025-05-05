@@ -11,12 +11,12 @@ I love:
 
 ### 🔗 Connect with Me
 
-<p align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/youseph-el-khouly-49a285219/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://yousephspw.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="40" height="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" width="40" height="40" />
   </a>
-</p>
+</div>
