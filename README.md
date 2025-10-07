@@ -1,6 +1,20 @@
-👋 Hi, I’m Youseph.E
+Hi, I’m Youseph.E
 
-CS Student @ University of Guelph.
+Computer Science Student @ University of Guelph
 
+
+🎯 Currently learning (Outside of School):
+
+Backend Development and scalable architectures
+
+Data Structures & Algorithms implementation in Web2 projects & technical interview practise (Neetcode) 
+
+System Automations with LLMs and emerging AI tools (n8n, etc)
+
+📚 Books Studied:
+
+Algorithms by Kevin Wayne.
+
+The 68000 Microprocessor, MacKenzie S. (1995). 
 
 
