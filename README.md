@@ -1,3 +1,3 @@
-Hi, Im Youseph.E
+👋 Hi, I’m Youseph.E
 
-CS Student @ University of Guelph. 
+CS Student @ University of Guelph.
