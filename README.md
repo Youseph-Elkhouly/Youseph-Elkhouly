@@ -5,9 +5,9 @@ Computer Science Student @ University of Guelph
 ---
 
 🎯 **Currently learning (Outside of School):**  
-- AI Memory
+- AI Infrastructure 
 - Backend Development and scalable architectures  
-- System Automations with LLMs and emerging AI tools (n8n, etc)  
+- Agent Orchestration 
 
 📚 **Books Studied:**  
 - *Algorithms* by Kevin Wayne  
