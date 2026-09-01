@@ -5,8 +5,8 @@ Computer Science Student @ University of Guelph
 ---
 
 🎯 **Currently learning (Outside of School):**  
-- AI Infrastructure 
-- Backend Development and scalable architectures  
+- AI Infrastructure
+- ML
 - Agent Orchestration 
 
 📚 **Books Studied:**  
